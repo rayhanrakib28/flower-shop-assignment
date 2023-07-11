@@ -20,7 +20,7 @@ header{
 }
 .hero-items h1{
     color: #272727;
-    font-size: 60px;
+    font-size: 48px;
     font-weight: 800;
 }
 .hero-items p{
@@ -41,5 +41,5 @@ header{
     color: white;
 }
 .hero-image img{
-    width: 400px;
+    width: 450px;
 }
